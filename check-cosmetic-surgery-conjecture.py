@@ -18,11 +18,11 @@ def check_conjecture_for_knots(filename):
     epsilon_counter = 0     # keeps track of the # of knots with epsilon = 0
     tau_counter = 0         # keeps track of the # of knots with tau = 0
     max_thickness = 0       # keeps track of the maximum Heegaard Floer thickness of all knots checked
-    is_alternating = False
     while line:
         if line[0:4] == 'Knot':     #Signals that we have started a new complex in the file
             reading_complex = True
             counter = 0
+            is_alternating = False
         if reading_complex:
             #print counter, is_alternating, line
             if counter == 1 and line[0:4] == 'Rank':   #If K is alternating the output of Szabo's program has this form
@@ -165,20 +165,36 @@ def check_conjecture_for_knots(filename):
                                 print condensed_curve
                                 print
 
-                            fig8s = [item[0] for item in train_track.fig8_components]
-                            if (max(fig8s) == 1 and min(fig8s) == -1):
-                                n1 = 0
-                                n0 = 0
-                                for item in fig8s:
-                                    if item == 0:
-                                        n0 += 1
-                                    if item == 1:
-                                        n1 += 1
-                                if n0 == 2*n1:
-                                    print condensed_curve
-                                    f_output.write(filename + '-' + str(knot_counter) + ' ' + condensed_curve + '\n')
-                                    f_output_short.write(filename + '-' + str(knot_counter) + '\n')
-                                    definite_counter += 1
+
+                            used_delta_gradings = range(min(delta_gradings), max(delta_gradings)+1)
+                            is_possible_example = True
+
+                            for delta in used_delta_gradings:
+                                delta_fig8s = []
+                                for item in train_track.fig8_components:
+                                    if item[1] == delta:
+                                        delta_fig8s.append(item)
+                                delta_fig8s = [item[0] for item in delta_fig8s]
+
+                                if len(delta_fig8s) > 0:
+                                    if (max(delta_fig8s) == 1 and min(delta_fig8s) == -1):
+                                        n1 = 0
+                                        n0 = 0
+                                        for item in delta_fig8s:
+                                            if item == 0:
+                                                n0 += 1
+                                            if item == 1:
+                                                n1 += 1
+                                        if not n0 == 2*n1:
+                                            is_possible_example = False
+                                    else:
+                                        is_possible_example = False
+
+                            if is_possible_example:
+                                print condensed_curve
+                                f_output.write(filename + '-' + str(knot_counter) + ' ' + condensed_curve + '\n')
+                                f_output_short.write(filename + '-' + str(knot_counter) + '\n')
+                                definite_counter += 1
 
             counter += 1
         line = f_input.readline()
@@ -203,4 +219,53 @@ def check_conjecture_for_knots(filename):
     f_output.close()
     f_output_short.close()
 
+
+#### Uncomment the relevant line below to find all potential pairs of cosmetic surgeries on the given set of knots
+#### Note that there must be a corresponding input file with the same name in the input_complex directory
+
+# check_conjecture_for_knots('3')
+# check_conjecture_for_knots('4')
+# check_conjecture_for_knots('5')
+# check_conjecture_for_knots('6')
+# check_conjecture_for_knots('7')
+# check_conjecture_for_knots('8')
+# check_conjecture_for_knots('9')
+# check_conjecture_for_knots('10')
+# check_conjecture_for_knots('11a')
+# check_conjecture_for_knots('11n')
+# check_conjecture_for_knots('12a')
 check_conjecture_for_knots('12n')
+# check_conjecture_for_knots('13a')
+# check_conjecture_for_knots('13n')
+# check_conjecture_for_knots('14a')
+# check_conjecture_for_knots('14n')
+# check_conjecture_for_knots('15a')
+# check_conjecture_for_knots('15n-0')
+# check_conjecture_for_knots('15n-1')
+# check_conjecture_for_knots('15n-2')
+# check_conjecture_for_knots('15n-3')
+# check_conjecture_for_knots('15n-4')
+# check_conjecture_for_knots('15n-5')
+# check_conjecture_for_knots('15n-6')
+# check_conjecture_for_knots('15n-7')
+# check_conjecture_for_knots('15n-8')
+# check_conjecture_for_knots('15n-9')
+# check_conjecture_for_knots('15n-10')
+# check_conjecture_for_knots('15n-11')
+# check_conjecture_for_knots('15n-12')
+# check_conjecture_for_knots('15n-13')
+# check_conjecture_for_knots('15n-14')
+# check_conjecture_for_knots('15n-15')
+# check_conjecture_for_knots('15n-16')
+# check_conjecture_for_knots('16a')
+# check_conjecture_for_knots('16n-0')
+# check_conjecture_for_knots('16n-1')
+# check_conjecture_for_knots('16n-2')
+# check_conjecture_for_knots('16n-3')
+# check_conjecture_for_knots('16n-4')
+# check_conjecture_for_knots('16n-5')
+# check_conjecture_for_knots('16n-6')
+# check_conjecture_for_knots('16n-7')
+# check_conjecture_for_knots('16n-8')
+# check_conjecture_for_knots('16n-9')
+# check_conjecture_for_knots('16n-10')
