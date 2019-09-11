@@ -1,0 +1,8 @@
+15n-15-6807 [0], (1,0)^6, (0,0)^12, (-1,0)^6
+
+knots checked: 10000
+# with tau = 0: 2473
+# with e = 0: 2473
+# with g=2,e=0: 20
+# still unknown: 1
+max_thickness: 2

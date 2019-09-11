@@ -1,0 +1,8 @@
+12a-1144 [0], (1,0)^8, (0,0)^16, (-1,0)^8
+
+knots checked: 1288
+# with tau = 0: 376
+# with e = 0: 376
+# with g=2,e=0: 24
+# still unknown: 1
+max_thickness: 0

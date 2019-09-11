@@ -1,0 +1,8 @@
+14a-17464 [0], (1,0)^12, (0,0)^24, (-1,0)^12
+
+knots checked: 19536
+# with tau = 0: 5259
+# with e = 0: 5259
+# with g=2,e=0: 51
+# still unknown: 1
+max_thickness: 0

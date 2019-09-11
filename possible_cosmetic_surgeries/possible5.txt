@@ -1,0 +1,7 @@
+
+knots checked: 2
+# with tau = 0: 0
+# with e = 0: 0
+# with g=2,e=0: 0
+# still unknown: 0
+max_thickness: 0

@@ -1,0 +1,8 @@
+11a-333 [0], (1,0)^4, (0,0)^8, (-1,0)^4
+
+knots checked: 367
+# with tau = 0: 97
+# with e = 0: 97
+# with g=2,e=0: 11
+# still unknown: 1
+max_thickness: 0

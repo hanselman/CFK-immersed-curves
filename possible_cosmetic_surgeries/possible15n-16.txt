@@ -1,0 +1,8 @@
+15n-16-28 [0], (1,0)^8, (0,0)^16, (-1,0)^8
+
+knots checked: 8031
+# with tau = 0: 1816
+# with e = 0: 1816
+# with g=2,e=0: 10
+# still unknown: 1
+max_thickness: 2

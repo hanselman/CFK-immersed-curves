@@ -1,0 +1,9 @@
+9-41 [0], (1,0)^3, (0,0)^6, (-1,0)^3
+9-44 [0], (1,0), (0,0)^2, (-1,0)
+
+knots checked: 49
+# with tau = 0: 12
+# with e = 0: 12
+# with g=2,e=0: 6
+# still unknown: 2
+max_thickness: 1
