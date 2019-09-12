@@ -1,0 +1,6022 @@
+Computations from file :  11aPD.txt
+with Coefficient = 2
+
+
+Knot # 1
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+12   (-2,-3)
+30   (-1,-2)
+39   (0,-1)
+30   (1,0)
+12   (2,1)
+2   (3,2)
+Total rank : 127
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 2
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+15   (-2,-4)
+31   (-1,-3)
+39   (0,-2)
+31   (1,-1)
+15   (2,0)
+3   (3,1)
+Total rank : 137
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 3
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+13   (-2,-1)
+24   (-1,0)
+29   (0,1)
+24   (1,2)
+13   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 115
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 4
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+10   (-2,-2)
+22   (-1,-1)
+29   (0,0)
+22   (1,1)
+10   (2,2)
+2   (3,3)
+Total rank : 97
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 5
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-3)
+9   (-2,-2)
+30   (-1,-1)
+45   (0,0)
+30   (1,1)
+9   (2,2)
+1   (3,3)
+Total rank : 125
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 6
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+13   (-2,-3)
+32   (-1,-2)
+41   (0,-1)
+32   (1,0)
+13   (2,1)
+2   (3,2)
+Total rank : 135
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 7
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+12   (-2,-1)
+19   (-1,0)
+21   (0,1)
+19   (1,2)
+12   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 95
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 8
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+27   (-1,-1)
+37   (0,0)
+27   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 117
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 9
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+10   (-2,-4)
+11   (-1,-3)
+11   (0,-2)
+11   (1,-1)
+10   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 65
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 10
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+25   (-1,-2)
+31   (0,-1)
+25   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 107
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 11
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+26   (-1,-1)
+35   (0,0)
+26   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 113
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 12
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+24   (-1,-2)
+29   (0,-1)
+24   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 103
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 13
+Ranks in Alexander, Maslov bigradings :
+3   (-2,-2)
+15   (-1,-1)
+25   (0,0)
+15   (1,1)
+3   (2,2)
+Total rank : 61
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 14
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+15   (-2,-2)
+28   (-1,-1)
+35   (0,0)
+28   (1,1)
+15   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 133
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 15
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+13   (-2,-1)
+22   (-1,0)
+25   (0,1)
+22   (1,2)
+13   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 107
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 16
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+10   (-2,-2)
+24   (-1,-1)
+33   (0,0)
+24   (1,1)
+10   (2,2)
+2   (3,3)
+Total rank : 105
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 17
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-4)
+10   (-2,-3)
+30   (-1,-2)
+41   (0,-1)
+30   (1,0)
+10   (2,1)
+1   (3,2)
+Total rank : 123
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 18
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+13   (-2,-3)
+29   (-1,-2)
+37   (0,-1)
+29   (1,0)
+13   (2,1)
+3   (3,2)
+Total rank : 127
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 19
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+18   (-2,-3)
+33   (-1,-2)
+39   (0,-1)
+33   (1,0)
+18   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 155
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 20
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+13   (-2,-4)
+25   (-1,-3)
+31   (0,-2)
+25   (1,-1)
+13   (2,0)
+3   (3,1)
+Total rank : 113
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 21
+Ranks in Alexander, Maslov bigradings :
+5   (-2,-3)
+19   (-1,-2)
+27   (0,-1)
+19   (1,0)
+5   (2,1)
+Total rank : 75
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 22
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+13   (-2,-4)
+20   (-1,-3)
+23   (0,-2)
+20   (1,-1)
+13   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 101
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 23
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+10   (-2,-3)
+24   (-1,-2)
+31   (0,-1)
+24   (1,0)
+10   (2,1)
+2   (3,2)
+Total rank : 103
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 24
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+18   (-2,-2)
+33   (-1,-1)
+41   (0,0)
+33   (1,1)
+18   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 157
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 25
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+18   (-2,-3)
+33   (-1,-2)
+39   (0,-1)
+33   (1,0)
+18   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 155
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 26
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+18   (-2,-2)
+33   (-1,-1)
+41   (0,0)
+33   (1,1)
+18   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 157
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 27
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+13   (-2,-1)
+34   (-1,0)
+45   (0,1)
+34   (1,2)
+13   (2,3)
+2   (3,4)
+Total rank : 143
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 28
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+15   (-2,-2)
+24   (-1,-1)
+29   (0,0)
+24   (1,1)
+15   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 121
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 29
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+12   (-2,-1)
+27   (-1,0)
+33   (0,1)
+27   (1,2)
+12   (2,3)
+2   (3,4)
+Total rank : 115
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 30
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+13   (-2,-2)
+35   (-1,-1)
+49   (0,0)
+35   (1,1)
+13   (2,2)
+2   (3,3)
+Total rank : 149
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 31
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+14   (-2,-4)
+28   (-1,-3)
+35   (0,-2)
+28   (1,-1)
+14   (2,0)
+3   (3,1)
+Total rank : 125
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 32
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+14   (-2,-3)
+32   (-1,-2)
+41   (0,-1)
+32   (1,0)
+14   (2,1)
+3   (3,2)
+Total rank : 139
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 33
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+12   (-2,-1)
+19   (-1,0)
+21   (0,1)
+19   (1,2)
+12   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 95
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 34
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+5   (-3,-4)
+14   (-2,-3)
+25   (-1,-2)
+29   (0,-1)
+25   (1,0)
+14   (2,1)
+5   (3,2)
+1   (4,3)
+Total rank : 119
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 35
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+14   (-2,-2)
+25   (-1,-1)
+31   (0,0)
+25   (1,1)
+14   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 121
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 36
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+28   (-1,-1)
+37   (0,0)
+28   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 121
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 37
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+9   (-2,-2)
+21   (-1,-1)
+29   (0,0)
+21   (1,1)
+9   (2,2)
+2   (3,3)
+Total rank : 93
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 38
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+27   (-1,-1)
+37   (0,0)
+27   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 117
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 39
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-3)
+12   (-2,-2)
+22   (-1,-1)
+27   (0,0)
+22   (1,1)
+12   (2,2)
+3   (3,3)
+Total rank : 101
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 40
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+12   (-2,-4)
+17   (-1,-3)
+19   (0,-2)
+17   (1,-1)
+12   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 89
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 41
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+27   (-1,-2)
+35   (0,-1)
+27   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 115
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 42
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-4)
+9   (-2,-3)
+26   (-1,-2)
+35   (0,-1)
+26   (1,0)
+9   (2,1)
+1   (3,2)
+Total rank : 107
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 43
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+15   (-2,-5)
+30   (-1,-4)
+37   (0,-3)
+30   (1,-2)
+15   (2,-1)
+4   (3,0)
+Total rank : 135
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 44
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+14   (-2,-2)
+24   (-1,-1)
+29   (0,0)
+24   (1,1)
+14   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 117
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 45
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-3)
+22   (-1,-2)
+31   (0,-1)
+22   (1,0)
+6   (2,1)
+Total rank : 87
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 46
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+9   (-2,-3)
+20   (-1,-2)
+25   (0,-1)
+20   (1,0)
+9   (2,1)
+2   (3,2)
+Total rank : 87
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 47
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+14   (-2,-2)
+24   (-1,-1)
+29   (0,0)
+24   (1,1)
+14   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 117
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 48
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+12   (-2,0)
+26   (-1,1)
+33   (0,2)
+26   (1,3)
+12   (2,4)
+2   (3,5)
+Total rank : 113
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 49
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+13   (-2,-4)
+23   (-1,-3)
+27   (0,-2)
+23   (1,-1)
+13   (2,0)
+3   (3,1)
+Total rank : 105
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 50
+Ranks in Alexander, Maslov bigradings :
+5   (-2,-3)
+21   (-1,-2)
+31   (0,-1)
+21   (1,0)
+5   (2,1)
+Total rank : 83
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 51
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-2)
+9   (-2,-1)
+28   (-1,0)
+39   (0,1)
+28   (1,2)
+9   (2,3)
+1   (3,4)
+Total rank : 115
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 52
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+13   (-2,-2)
+32   (-1,-1)
+43   (0,0)
+32   (1,1)
+13   (2,2)
+2   (3,3)
+Total rank : 137
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 53
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+6   (-3,-1)
+14   (-2,0)
+18   (-1,1)
+19   (0,2)
+18   (1,3)
+14   (2,4)
+6   (3,5)
+1   (4,6)
+Total rank : 97
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 54
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+13   (-2,-1)
+33   (-1,0)
+43   (0,1)
+33   (1,2)
+13   (2,3)
+2   (3,4)
+Total rank : 139
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 55
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+10   (-2,-1)
+13   (-1,0)
+13   (0,1)
+13   (1,2)
+10   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 71
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 56
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+25   (-1,-1)
+33   (0,0)
+25   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 109
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 57
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+12   (-2,-1)
+20   (-1,0)
+23   (0,1)
+20   (1,2)
+12   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 99
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 58
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+9   (-2,-2)
+18   (-1,-1)
+23   (0,0)
+18   (1,1)
+9   (2,2)
+2   (3,3)
+Total rank : 81
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 59
+Ranks in Alexander, Maslov bigradings :
+3   (-2,-3)
+11   (-1,-2)
+15   (0,-1)
+11   (1,0)
+3   (2,1)
+Total rank : 43
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 60
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+12   (-2,-4)
+18   (-1,-3)
+19   (0,-2)
+18   (1,-1)
+12   (2,0)
+3   (3,1)
+Total rank : 85
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 61
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-3)
+26   (-1,-2)
+39   (0,-1)
+26   (1,0)
+6   (2,1)
+Total rank : 103
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 62
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-1)
+5   (-3,0)
+8   (-2,1)
+9   (-1,2)
+9   (0,3)
+9   (1,4)
+8   (2,5)
+5   (3,6)
+1   (4,7)
+Total rank : 55
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -3
+Nu : -3
+Epsilon : -1
+Knot # 63
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+11   (-2,0)
+21   (-1,1)
+25   (0,2)
+21   (1,3)
+11   (2,4)
+2   (3,5)
+Total rank : 93
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 64
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+11   (-2,0)
+22   (-1,1)
+27   (0,2)
+22   (1,3)
+11   (2,4)
+2   (3,5)
+Total rank : 97
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 65
+Ranks in Alexander, Maslov bigradings :
+3   (-2,-1)
+15   (-1,0)
+23   (0,1)
+15   (1,2)
+3   (2,3)
+Total rank : 59
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 66
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+15   (-2,-1)
+24   (-1,0)
+27   (0,1)
+24   (1,2)
+15   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 119
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 67
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+29   (-1,-1)
+39   (0,0)
+29   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 125
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 68
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+14   (-2,-3)
+20   (-1,-2)
+21   (0,-1)
+20   (1,0)
+14   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 103
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 69
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+13   (-2,-2)
+33   (-1,-1)
+45   (0,0)
+33   (1,1)
+13   (2,2)
+2   (3,3)
+Total rank : 141
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 70
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+14   (-2,-3)
+36   (-1,-2)
+47   (0,-1)
+36   (1,0)
+14   (2,1)
+2   (3,2)
+Total rank : 151
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 71
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+18   (-2,-3)
+34   (-1,-2)
+41   (0,-1)
+34   (1,0)
+18   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 159
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 72
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+18   (-2,-2)
+32   (-1,-1)
+39   (0,0)
+32   (1,1)
+18   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 153
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 73
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+7   (-3,-3)
+21   (-2,-2)
+37   (-1,-1)
+45   (0,0)
+37   (1,1)
+21   (2,2)
+7   (3,3)
+1   (4,4)
+Total rank : 177
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 74
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+10   (-2,-4)
+13   (-1,-3)
+15   (0,-2)
+13   (1,-1)
+10   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 73
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 75
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+10   (-2,-3)
+19   (-1,-2)
+21   (0,-1)
+19   (1,0)
+10   (2,1)
+2   (3,2)
+Total rank : 83
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 76
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+17   (-2,-2)
+30   (-1,-1)
+37   (0,0)
+30   (1,1)
+17   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 145
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 77
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+12   (-2,-1)
+31   (-1,0)
+41   (0,1)
+31   (1,2)
+12   (2,3)
+2   (3,4)
+Total rank : 131
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 78
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+12   (-2,-3)
+29   (-1,-2)
+37   (0,-1)
+29   (1,0)
+12   (2,1)
+2   (3,2)
+Total rank : 123
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 79
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+17   (-2,-1)
+30   (-1,0)
+35   (0,1)
+30   (1,2)
+17   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 143
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 80
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+16   (-2,-2)
+28   (-1,-1)
+35   (0,0)
+28   (1,1)
+16   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 137
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 81
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+16   (-2,-3)
+26   (-1,-2)
+29   (0,-1)
+26   (1,0)
+16   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 127
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 82
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+12   (-2,-1)
+19   (-1,0)
+21   (0,1)
+19   (1,2)
+12   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 95
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 83
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+14   (-2,-4)
+23   (-1,-3)
+27   (0,-2)
+23   (1,-1)
+14   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 113
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 84
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+10   (-2,-2)
+23   (-1,-1)
+31   (0,0)
+23   (1,1)
+10   (2,2)
+2   (3,3)
+Total rank : 101
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 85
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+10   (-2,-3)
+25   (-1,-2)
+33   (0,-1)
+25   (1,0)
+10   (2,1)
+2   (3,2)
+Total rank : 107
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 86
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+5   (-3,-4)
+12   (-2,-3)
+18   (-1,-2)
+19   (0,-1)
+18   (1,0)
+12   (2,1)
+5   (3,2)
+1   (4,3)
+Total rank : 91
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 87
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+28   (-1,-1)
+39   (0,0)
+28   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 121
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 88
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+12   (-2,-2)
+20   (-1,-1)
+25   (0,0)
+20   (1,1)
+12   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 101
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 89
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+12   (-2,-3)
+28   (-1,-2)
+35   (0,-1)
+28   (1,0)
+12   (2,1)
+2   (3,2)
+Total rank : 119
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 90
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+10   (-2,-1)
+20   (-1,0)
+23   (0,1)
+20   (1,2)
+10   (2,3)
+2   (3,4)
+Total rank : 87
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 91
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+30   (-1,-1)
+41   (0,0)
+30   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 129
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 92
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+12   (-2,-1)
+21   (-1,0)
+25   (0,1)
+21   (1,2)
+12   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 103
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 93
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+10   (-2,-2)
+21   (-1,-1)
+27   (0,0)
+21   (1,1)
+10   (2,2)
+2   (3,3)
+Total rank : 93
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 94
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+13   (-2,-5)
+23   (-1,-4)
+27   (0,-3)
+23   (1,-2)
+13   (2,-1)
+4   (3,0)
+Total rank : 107
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 95
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-4)
+18   (-1,-3)
+25   (0,-2)
+18   (1,-1)
+6   (2,0)
+Total rank : 73
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 96
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-3)
+9   (-2,-2)
+29   (-1,-1)
+43   (0,0)
+29   (1,1)
+9   (2,2)
+1   (3,3)
+Total rank : 121
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 97
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+9   (-2,-3)
+16   (-1,-2)
+17   (0,-1)
+16   (1,0)
+9   (2,1)
+2   (3,2)
+Total rank : 71
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 98
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-2)
+19   (-1,-1)
+31   (0,0)
+19   (1,1)
+4   (2,2)
+Total rank : 77
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 99
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+17   (-2,-3)
+28   (-1,-2)
+31   (0,-1)
+28   (1,0)
+17   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 135
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 100
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+15   (-2,-4)
+32   (-1,-3)
+41   (0,-2)
+32   (1,-1)
+15   (2,0)
+3   (3,1)
+Total rank : 141
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 101
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+16   (-2,-3)
+39   (-1,-2)
+51   (0,-1)
+39   (1,0)
+16   (2,1)
+3   (3,2)
+Total rank : 167
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 102
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+23   (-1,-2)
+27   (0,-1)
+23   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 99
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 103
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-2)
+20   (-1,-1)
+33   (0,0)
+20   (1,1)
+4   (2,2)
+Total rank : 81
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 104
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+29   (-1,-1)
+39   (0,0)
+29   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 125
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 105
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+13   (-2,-4)
+24   (-1,-3)
+29   (0,-2)
+24   (1,-1)
+13   (2,0)
+3   (3,1)
+Total rank : 109
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 106
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+12   (-2,-2)
+18   (-1,-1)
+21   (0,0)
+18   (1,1)
+12   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 93
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 107
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+26   (-1,-2)
+33   (0,-1)
+26   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 111
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 108
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+12   (-2,-1)
+20   (-1,0)
+23   (0,1)
+20   (1,2)
+12   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 99
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 109
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+14   (-2,-2)
+24   (-1,-1)
+29   (0,0)
+24   (1,1)
+14   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 117
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 110
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+10   (-2,-2)
+22   (-1,-1)
+29   (0,0)
+22   (1,1)
+10   (2,2)
+2   (3,3)
+Total rank : 97
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 111
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+10   (-2,-3)
+24   (-1,-2)
+31   (0,-1)
+24   (1,0)
+10   (2,1)
+2   (3,2)
+Total rank : 103
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 112
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+15   (-2,-2)
+25   (-1,-1)
+31   (0,0)
+25   (1,1)
+15   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 125
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 113
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+6   (-3,-1)
+15   (-2,0)
+21   (-1,1)
+23   (0,2)
+21   (1,3)
+15   (2,4)
+6   (3,5)
+1   (4,6)
+Total rank : 109
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 114
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+15   (-2,-3)
+35   (-1,-2)
+45   (0,-1)
+35   (1,0)
+15   (2,1)
+3   (3,2)
+Total rank : 151
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 115
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-3)
+13   (-2,-2)
+27   (-1,-1)
+35   (0,0)
+27   (1,1)
+13   (2,2)
+3   (3,3)
+Total rank : 121
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 116
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+15   (-2,-4)
+31   (-1,-3)
+39   (0,-2)
+31   (1,-1)
+15   (2,0)
+3   (3,1)
+Total rank : 137
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 117
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-5)
+12   (-2,-4)
+27   (-1,-3)
+35   (0,-2)
+27   (1,-1)
+12   (2,0)
+2   (3,1)
+Total rank : 117
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 118
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+10   (-2,-3)
+20   (-1,-2)
+23   (0,-1)
+20   (1,0)
+10   (2,1)
+2   (3,2)
+Total rank : 87
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 119
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-2)
+19   (-1,-1)
+31   (0,0)
+19   (1,1)
+4   (2,2)
+Total rank : 77
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 120
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+12   (-2,0)
+25   (-1,1)
+31   (0,2)
+25   (1,3)
+12   (2,4)
+2   (3,5)
+Total rank : 109
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 121
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-2)
+9   (-2,-1)
+29   (-1,0)
+41   (0,1)
+29   (1,2)
+9   (2,3)
+1   (3,4)
+Total rank : 119
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 122
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+12   (-2,-1)
+30   (-1,0)
+39   (0,1)
+30   (1,2)
+12   (2,3)
+2   (3,4)
+Total rank : 127
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 123
+Ranks in Alexander, Maslov bigradings :
+9   (-2,-4)
+29   (-1,-3)
+41   (0,-2)
+29   (1,-1)
+9   (2,0)
+Total rank : 117
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 124
+Ranks in Alexander, Maslov bigradings :
+5   (-3,-6)
+18   (-2,-5)
+34   (-1,-4)
+41   (0,-3)
+34   (1,-2)
+18   (2,-1)
+5   (3,0)
+Total rank : 155
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 125
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+19   (-2,-3)
+38   (-1,-2)
+47   (0,-1)
+38   (1,0)
+19   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 175
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 126
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+16   (-2,-2)
+31   (-1,-1)
+39   (0,0)
+31   (1,1)
+16   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 145
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 127
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+6   (-3,-5)
+17   (-2,-4)
+28   (-1,-3)
+33   (0,-2)
+28   (1,-1)
+17   (2,0)
+6   (3,1)
+1   (4,2)
+Total rank : 137
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 128
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-3)
+9   (-2,-2)
+31   (-1,-1)
+47   (0,0)
+31   (1,1)
+9   (2,2)
+1   (3,3)
+Total rank : 129
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 129
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+6   (-3,-1)
+15   (-2,0)
+22   (-1,1)
+25   (0,2)
+22   (1,3)
+15   (2,4)
+6   (3,5)
+1   (4,6)
+Total rank : 113
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 130
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+12   (-2,-1)
+29   (-1,0)
+37   (0,1)
+29   (1,2)
+12   (2,3)
+2   (3,4)
+Total rank : 123
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 131
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+16   (-2,-1)
+27   (-1,0)
+31   (0,1)
+27   (1,2)
+16   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 131
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 132
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+13   (-2,-3)
+32   (-1,-2)
+41   (0,-1)
+32   (1,0)
+13   (2,1)
+2   (3,2)
+Total rank : 135
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 133
+Ranks in Alexander, Maslov bigradings :
+5   (-2,-3)
+20   (-1,-2)
+29   (0,-1)
+20   (1,0)
+5   (2,1)
+Total rank : 79
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 134
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+13   (-2,-3)
+28   (-1,-2)
+35   (0,-1)
+28   (1,0)
+13   (2,1)
+3   (3,2)
+Total rank : 123
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 135
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+13   (-2,-2)
+36   (-1,-1)
+51   (0,0)
+36   (1,1)
+13   (2,2)
+2   (3,3)
+Total rank : 153
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 136
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+14   (-2,-1)
+39   (-1,0)
+53   (0,1)
+39   (1,2)
+14   (2,3)
+2   (3,4)
+Total rank : 163
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 137
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+12   (-2,-1)
+26   (-1,0)
+31   (0,1)
+26   (1,2)
+12   (2,3)
+2   (3,4)
+Total rank : 111
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 138
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+14   (-2,-2)
+38   (-1,-1)
+53   (0,0)
+38   (1,1)
+14   (2,2)
+2   (3,3)
+Total rank : 161
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 139
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+5   (-3,-4)
+12   (-2,-3)
+20   (-1,-2)
+23   (0,-1)
+20   (1,0)
+12   (2,1)
+5   (3,2)
+1   (4,3)
+Total rank : 99
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 140
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-5)
+8   (-2,-4)
+14   (-1,-3)
+17   (0,-2)
+14   (1,-1)
+8   (2,0)
+2   (3,1)
+Total rank : 65
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 141
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+11   (-2,-1)
+24   (-1,0)
+29   (0,1)
+24   (1,2)
+11   (2,3)
+2   (3,4)
+Total rank : 103
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 142
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-1)
+5   (-3,0)
+8   (-2,1)
+10   (-1,2)
+11   (0,3)
+10   (1,4)
+8   (2,5)
+5   (3,6)
+1   (4,7)
+Total rank : 59
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -3
+Nu : -3
+Epsilon : -1
+Knot # 143
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+11   (-2,0)
+20   (-1,1)
+23   (0,2)
+20   (1,3)
+11   (2,4)
+2   (3,5)
+Total rank : 89
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 144
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+10   (-2,0)
+16   (-1,1)
+17   (0,2)
+16   (1,3)
+10   (2,4)
+2   (3,5)
+Total rank : 73
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 145
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-1)
+21   (-1,0)
+33   (0,1)
+21   (1,2)
+4   (2,3)
+Total rank : 83
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 146
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+15   (-2,-1)
+25   (-1,0)
+29   (0,1)
+25   (1,2)
+15   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 123
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 147
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+17   (-2,-3)
+32   (-1,-2)
+39   (0,-1)
+32   (1,0)
+17   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 151
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 148
+Ranks in Alexander, Maslov bigradings :
+7   (-2,-3)
+29   (-1,-2)
+43   (0,-1)
+29   (1,0)
+7   (2,1)
+Total rank : 115
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 149
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+12   (-2,-3)
+30   (-1,-2)
+39   (0,-1)
+30   (1,0)
+12   (2,1)
+2   (3,2)
+Total rank : 127
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 150
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+13   (-2,0)
+29   (-1,1)
+37   (0,2)
+29   (1,3)
+13   (2,4)
+2   (3,5)
+Total rank : 125
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 151
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+15   (-2,-1)
+26   (-1,0)
+31   (0,1)
+26   (1,2)
+15   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 127
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 152
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+27   (-1,-1)
+35   (0,0)
+27   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 117
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 153
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+10   (-2,-2)
+20   (-1,-1)
+25   (0,0)
+20   (1,1)
+10   (2,2)
+2   (3,3)
+Total rank : 89
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 154
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-3)
+17   (-1,-2)
+25   (0,-1)
+17   (1,0)
+4   (2,1)
+Total rank : 67
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 155
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-2)
+16   (-2,-1)
+40   (-1,0)
+53   (0,1)
+40   (1,2)
+16   (2,3)
+3   (3,4)
+Total rank : 171
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 156
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+11   (-2,-1)
+18   (-1,0)
+21   (0,1)
+18   (1,2)
+11   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 91
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 157
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+16   (-2,-1)
+28   (-1,0)
+33   (0,1)
+28   (1,2)
+16   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 135
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 158
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+14   (-2,-1)
+25   (-1,0)
+29   (0,1)
+25   (1,2)
+14   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 119
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 159
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-4)
+9   (-2,-3)
+27   (-1,-2)
+37   (0,-1)
+27   (1,0)
+9   (2,1)
+1   (3,2)
+Total rank : 111
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 160
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+17   (-2,-2)
+30   (-1,-1)
+37   (0,0)
+30   (1,1)
+17   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 145
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 161
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+8   (-2,0)
+12   (-1,1)
+13   (0,2)
+12   (1,3)
+8   (2,4)
+2   (3,5)
+Total rank : 57
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 162
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+7   (-3,-2)
+20   (-2,-1)
+35   (-1,0)
+41   (0,1)
+35   (1,2)
+20   (2,3)
+7   (3,4)
+1   (4,5)
+Total rank : 167
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 163
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+15   (-2,-3)
+24   (-1,-2)
+27   (0,-1)
+24   (1,0)
+15   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 119
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 164
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+7   (-3,-3)
+20   (-2,-2)
+35   (-1,-1)
+43   (0,0)
+35   (1,1)
+20   (2,2)
+7   (3,3)
+1   (4,4)
+Total rank : 169
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 165
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+9   (-2,-2)
+18   (-1,-1)
+23   (0,0)
+18   (1,1)
+9   (2,2)
+2   (3,3)
+Total rank : 81
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 166
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-3)
+15   (-1,-2)
+21   (0,-1)
+15   (1,0)
+4   (2,1)
+Total rank : 59
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 167
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+26   (-1,-1)
+35   (0,0)
+26   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 113
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 168
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+29   (-1,-1)
+39   (0,0)
+29   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 125
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 169
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+28   (-1,-1)
+37   (0,0)
+28   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 121
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 170
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+20   (-2,-2)
+40   (-1,-1)
+51   (0,0)
+40   (1,1)
+20   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 185
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 171
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+7   (-3,-4)
+21   (-2,-3)
+39   (-1,-2)
+47   (0,-1)
+39   (1,0)
+21   (2,1)
+7   (3,2)
+1   (4,3)
+Total rank : 183
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 172
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+13   (-2,-3)
+33   (-1,-2)
+43   (0,-1)
+33   (1,0)
+13   (2,1)
+2   (3,2)
+Total rank : 139
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 173
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+12   (-2,-3)
+32   (-1,-2)
+43   (0,-1)
+32   (1,0)
+12   (2,1)
+2   (3,2)
+Total rank : 135
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 174
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+11   (-2,-1)
+15   (-1,0)
+15   (0,1)
+15   (1,2)
+11   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 79
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 175
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+13   (-2,-2)
+21   (-1,-1)
+25   (0,0)
+21   (1,1)
+13   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 105
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 176
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+5   (-3,-4)
+13   (-2,-3)
+23   (-1,-2)
+27   (0,-1)
+23   (1,0)
+13   (2,1)
+5   (3,2)
+1   (4,3)
+Total rank : 111
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 177
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+13   (-2,-4)
+19   (-1,-3)
+21   (0,-2)
+19   (1,-1)
+13   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 97
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 178
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+29   (-1,-2)
+39   (0,-1)
+29   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 123
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 179
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+9   (-2,-4)
+9   (-1,-3)
+9   (0,-2)
+9   (1,-1)
+9   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 57
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 180
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+11   (-2,-2)
+17   (-1,-1)
+21   (0,0)
+17   (1,1)
+11   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 89
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 181
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+23   (-1,-2)
+27   (0,-1)
+23   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 99
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 182
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+5   (-3,-1)
+11   (-2,0)
+13   (-1,1)
+13   (0,2)
+13   (1,3)
+11   (2,4)
+5   (3,5)
+1   (4,6)
+Total rank : 73
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 183
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+11   (-2,-1)
+27   (-1,0)
+35   (0,1)
+27   (1,2)
+11   (2,3)
+2   (3,4)
+Total rank : 115
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 184
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+11   (-2,-1)
+17   (-1,0)
+19   (0,1)
+17   (1,2)
+11   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 87
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 185
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+25   (-1,-1)
+33   (0,0)
+25   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 109
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 186
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+12   (-2,-5)
+20   (-1,-4)
+23   (0,-3)
+20   (1,-2)
+12   (2,-1)
+4   (3,0)
+Total rank : 95
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 187
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+27   (-1,-1)
+37   (0,0)
+27   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 117
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 188
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+9   (-2,-3)
+15   (-1,-2)
+15   (0,-1)
+15   (1,0)
+9   (2,1)
+2   (3,2)
+Total rank : 67
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 189
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+17   (-2,-2)
+31   (-1,-1)
+39   (0,0)
+31   (1,1)
+17   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 149
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 190
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+9   (-2,-2)
+19   (-1,-1)
+25   (0,0)
+19   (1,1)
+9   (2,2)
+2   (3,3)
+Total rank : 85
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 191
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+11   (-2,-5)
+17   (-1,-4)
+19   (0,-3)
+17   (1,-2)
+11   (2,-1)
+4   (3,0)
+Total rank : 83
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 192
+Ranks in Alexander, Maslov bigradings :
+8   (-2,-4)
+24   (-1,-3)
+33   (0,-2)
+24   (1,-1)
+8   (2,0)
+Total rank : 97
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 193
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+10   (-2,-1)
+22   (-1,0)
+27   (0,1)
+22   (1,2)
+10   (2,3)
+2   (3,4)
+Total rank : 95
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 194
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+5   (-3,-1)
+12   (-2,0)
+18   (-1,1)
+21   (0,2)
+18   (1,3)
+12   (2,4)
+5   (3,5)
+1   (4,6)
+Total rank : 93
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 195
+Ranks in Alexander, Maslov bigradings :
+3   (-2,-2)
+13   (-1,-1)
+21   (0,0)
+13   (1,1)
+3   (2,2)
+Total rank : 53
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 196
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+17   (-2,-1)
+31   (-1,0)
+37   (0,1)
+31   (1,2)
+17   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 147
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 197
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+14   (-2,-3)
+33   (-1,-2)
+43   (0,-1)
+33   (1,0)
+14   (2,1)
+3   (3,2)
+Total rank : 143
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 198
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+27   (-1,-2)
+35   (0,-1)
+27   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 115
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 199
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+11   (-2,-1)
+23   (-1,0)
+27   (0,1)
+23   (1,2)
+11   (2,3)
+2   (3,4)
+Total rank : 99
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 200
+Ranks in Alexander, Maslov bigradings :
+7   (-2,-4)
+21   (-1,-3)
+29   (0,-2)
+21   (1,-1)
+7   (2,0)
+Total rank : 85
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 201
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-2)
+20   (-1,-1)
+33   (0,0)
+20   (1,1)
+4   (2,2)
+Total rank : 81
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 202
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+12   (-2,-3)
+26   (-1,-2)
+31   (0,-1)
+26   (1,0)
+12   (2,1)
+2   (3,2)
+Total rank : 111
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 203
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-7)
+5   (-3,-6)
+9   (-2,-5)
+11   (-1,-4)
+11   (0,-3)
+11   (1,-2)
+9   (2,-1)
+5   (3,0)
+1   (4,1)
+Total rank : 63
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 204
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-5)
+11   (-2,-4)
+23   (-1,-3)
+29   (0,-2)
+23   (1,-1)
+11   (2,0)
+2   (3,1)
+Total rank : 101
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 205
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+10   (-2,-1)
+21   (-1,0)
+25   (0,1)
+21   (1,2)
+10   (2,3)
+2   (3,4)
+Total rank : 91
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 206
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-1)
+5   (-3,0)
+7   (-2,1)
+7   (-1,2)
+7   (0,3)
+7   (1,4)
+7   (2,5)
+5   (3,6)
+1   (4,7)
+Total rank : 47
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -3
+Nu : -3
+Epsilon : -1
+Knot # 207
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+11   (-2,0)
+19   (-1,1)
+21   (0,2)
+19   (1,3)
+11   (2,4)
+2   (3,5)
+Total rank : 85
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 208
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+12   (-2,0)
+24   (-1,1)
+29   (0,2)
+24   (1,3)
+12   (2,4)
+2   (3,5)
+Total rank : 105
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 209
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-3)
+10   (-2,-2)
+34   (-1,-1)
+51   (0,0)
+34   (1,1)
+10   (2,2)
+1   (3,3)
+Total rank : 141
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 210
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-2)
+18   (-1,-1)
+29   (0,0)
+18   (1,1)
+4   (2,2)
+Total rank : 73
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 211
+Ranks in Alexander, Maslov bigradings :
+3   (-2,-1)
+17   (-1,0)
+27   (0,1)
+17   (1,2)
+3   (2,3)
+Total rank : 67
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 212
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+16   (-2,-4)
+35   (-1,-3)
+45   (0,-2)
+35   (1,-1)
+16   (2,0)
+3   (3,1)
+Total rank : 153
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 213
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+16   (-2,-4)
+33   (-1,-3)
+41   (0,-2)
+33   (1,-1)
+16   (2,0)
+3   (3,1)
+Total rank : 145
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 214
+Ranks in Alexander, Maslov bigradings :
+3   (-2,-2)
+17   (-1,-1)
+29   (0,0)
+17   (1,1)
+3   (2,2)
+Total rank : 69
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 215
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+6   (-3,-5)
+17   (-2,-4)
+27   (-1,-3)
+31   (0,-2)
+27   (1,-1)
+17   (2,0)
+6   (3,1)
+1   (4,2)
+Total rank : 133
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 216
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+17   (-2,-3)
+31   (-1,-2)
+37   (0,-1)
+31   (1,0)
+17   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 147
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 217
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+16   (-2,-1)
+29   (-1,0)
+35   (0,1)
+29   (1,2)
+16   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 139
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 218
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-2)
+10   (-2,-1)
+32   (-1,0)
+45   (0,1)
+32   (1,2)
+10   (2,3)
+1   (3,4)
+Total rank : 131
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 219
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-1)
+22   (-1,0)
+35   (0,1)
+22   (1,2)
+4   (2,3)
+Total rank : 87
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 220
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-5)
+10   (-2,-4)
+19   (-1,-3)
+23   (0,-2)
+19   (1,-1)
+10   (2,0)
+2   (3,1)
+Total rank : 85
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 221
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+10   (-2,-1)
+15   (-1,0)
+17   (0,1)
+15   (1,2)
+10   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 79
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 222
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+23   (-1,-1)
+29   (0,0)
+23   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 101
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 223
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-7)
+5   (-3,-6)
+10   (-2,-5)
+14   (-1,-4)
+15   (0,-3)
+14   (1,-2)
+10   (2,-1)
+5   (3,0)
+1   (4,1)
+Total rank : 75
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 224
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-5)
+10   (-2,-4)
+20   (-1,-3)
+25   (0,-2)
+20   (1,-1)
+10   (2,0)
+2   (3,1)
+Total rank : 89
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 225
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-1)
+8   (-2,0)
+11   (-1,1)
+11   (0,2)
+11   (1,3)
+8   (2,4)
+2   (3,5)
+Total rank : 53
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 226
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-1)
+18   (-1,0)
+27   (0,1)
+18   (1,2)
+4   (2,3)
+Total rank : 71
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 227
+Ranks in Alexander, Maslov bigradings :
+5   (-3,-6)
+17   (-2,-5)
+31   (-1,-4)
+37   (0,-3)
+31   (1,-2)
+17   (2,-1)
+5   (3,0)
+Total rank : 143
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 228
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-3)
+10   (-2,-2)
+32   (-1,-1)
+47   (0,0)
+32   (1,1)
+10   (2,2)
+1   (3,3)
+Total rank : 133
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 229
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-3)
+18   (-1,-2)
+27   (0,-1)
+18   (1,0)
+4   (2,1)
+Total rank : 71
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 230
+Ranks in Alexander, Maslov bigradings :
+3   (-2,-3)
+13   (-1,-2)
+19   (0,-1)
+13   (1,0)
+3   (2,1)
+Total rank : 51
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 231
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+12   (-2,-1)
+20   (-1,0)
+23   (0,1)
+20   (1,2)
+12   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 99
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 232
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+5   (-3,-2)
+14   (-2,-1)
+26   (-1,0)
+31   (0,1)
+26   (1,2)
+14   (2,3)
+5   (3,4)
+1   (4,5)
+Total rank : 123
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 233
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+19   (-2,-2)
+37   (-1,-1)
+47   (0,0)
+37   (1,1)
+19   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 173
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 234
+Ranks in Alexander, Maslov bigradings :
+2   (-4,-8)
+4   (-3,-7)
+5   (-2,-6)
+5   (-1,-5)
+5   (0,-4)
+5   (1,-3)
+5   (2,-2)
+4   (3,-1)
+2   (4,0)
+Total rank : 37
+Seifert genus : 4
+Fibered : No
+L-space knot : No
+Tau : 4
+Nu : 4
+Epsilon : 1
+Knot # 235
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+10   (-2,-5)
+14   (-1,-4)
+15   (0,-3)
+14   (1,-2)
+10   (2,-1)
+4   (3,0)
+Total rank : 71
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 236
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+12   (-2,-5)
+21   (-1,-4)
+25   (0,-3)
+21   (1,-2)
+12   (2,-1)
+4   (3,0)
+Total rank : 99
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 237
+Ranks in Alexander, Maslov bigradings :
+8   (-2,-4)
+23   (-1,-3)
+31   (0,-2)
+23   (1,-1)
+8   (2,0)
+Total rank : 93
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 238
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-4)
+16   (-1,-3)
+21   (0,-2)
+16   (1,-1)
+6   (2,0)
+Total rank : 65
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 239
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+7   (-3,-4)
+22   (-2,-3)
+42   (-1,-2)
+51   (0,-1)
+42   (1,0)
+22   (2,1)
+7   (3,2)
+1   (4,3)
+Total rank : 195
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 240
+Ranks in Alexander, Maslov bigradings :
+2   (-4,-8)
+5   (-3,-7)
+8   (-2,-6)
+10   (-1,-5)
+11   (0,-4)
+10   (1,-3)
+8   (2,-2)
+5   (3,-1)
+2   (4,0)
+Total rank : 61
+Seifert genus : 4
+Fibered : No
+L-space knot : No
+Tau : 4
+Nu : 4
+Epsilon : 1
+Knot # 241
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+12   (-2,-5)
+20   (-1,-4)
+23   (0,-3)
+20   (1,-2)
+12   (2,-1)
+4   (3,0)
+Total rank : 95
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 242
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-6)
+7   (-2,-5)
+9   (-1,-4)
+9   (0,-3)
+9   (1,-2)
+7   (2,-1)
+3   (3,0)
+Total rank : 47
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 243
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-4)
+17   (-1,-3)
+23   (0,-2)
+17   (1,-1)
+6   (2,0)
+Total rank : 69
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 244
+Ranks in Alexander, Maslov bigradings :
+5   (-3,-6)
+17   (-2,-5)
+32   (-1,-4)
+39   (0,-3)
+32   (1,-2)
+17   (2,-1)
+5   (3,0)
+Total rank : 147
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 245
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-6)
+9   (-2,-5)
+16   (-1,-4)
+19   (0,-3)
+16   (1,-2)
+9   (2,-1)
+3   (3,0)
+Total rank : 75
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 246
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-4)
+10   (-1,-3)
+13   (0,-2)
+10   (1,-1)
+4   (2,0)
+Total rank : 41
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 247
+Ranks in Alexander, Maslov bigradings :
+5   (-1,-2)
+9   (0,-1)
+5   (1,0)
+Total rank : 19
+Seifert genus : 1
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 248
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+18   (-2,-1)
+34   (-1,0)
+41   (0,1)
+34   (1,2)
+18   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 159
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 249
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+27   (-1,-1)
+37   (0,0)
+27   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 117
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 250
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+11   (-2,-4)
+16   (-1,-3)
+19   (0,-2)
+16   (1,-1)
+11   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 85
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 251
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+16   (-2,-2)
+27   (-1,-1)
+33   (0,0)
+27   (1,1)
+16   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 133
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 252
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+16   (-2,-3)
+27   (-1,-2)
+31   (0,-1)
+27   (1,0)
+16   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 131
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 253
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+16   (-2,-2)
+27   (-1,-1)
+33   (0,0)
+27   (1,1)
+16   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 133
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 254
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+16   (-2,-3)
+27   (-1,-2)
+31   (0,-1)
+27   (1,0)
+16   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 131
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 255
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+17   (-2,-1)
+30   (-1,0)
+35   (0,1)
+30   (1,2)
+17   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 143
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 256
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+31   (-1,-1)
+43   (0,0)
+31   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 133
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 257
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+12   (-2,-2)
+19   (-1,-1)
+23   (0,0)
+19   (1,1)
+12   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 97
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 258
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+9   (-2,-3)
+17   (-1,-2)
+19   (0,-1)
+17   (1,0)
+9   (2,1)
+2   (3,2)
+Total rank : 75
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 259
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-7)
+5   (-3,-6)
+10   (-2,-5)
+15   (-1,-4)
+17   (0,-3)
+15   (1,-2)
+10   (2,-1)
+5   (3,0)
+1   (4,1)
+Total rank : 79
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 260
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-5)
+9   (-2,-4)
+15   (-1,-3)
+17   (0,-2)
+15   (1,-1)
+9   (2,0)
+2   (3,1)
+Total rank : 69
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 261
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+6   (-3,-1)
+16   (-2,0)
+26   (-1,1)
+31   (0,2)
+26   (1,3)
+16   (2,4)
+6   (3,5)
+1   (4,6)
+Total rank : 129
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 262
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+11   (-2,-1)
+25   (-1,0)
+31   (0,1)
+25   (1,2)
+11   (2,3)
+2   (3,4)
+Total rank : 107
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 263
+Ranks in Alexander, Maslov bigradings :
+2   (-4,-8)
+6   (-3,-7)
+11   (-2,-6)
+14   (-1,-5)
+15   (0,-4)
+14   (1,-3)
+11   (2,-2)
+6   (3,-1)
+2   (4,0)
+Total rank : 81
+Seifert genus : 4
+Fibered : No
+L-space knot : No
+Tau : 4
+Nu : 4
+Epsilon : 1
+Knot # 264
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+16   (-2,-3)
+28   (-1,-2)
+33   (0,-1)
+28   (1,0)
+16   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 135
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 265
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+11   (-2,-2)
+25   (-1,-1)
+33   (0,0)
+25   (1,1)
+11   (2,2)
+2   (3,3)
+Total rank : 109
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 266
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+7   (-3,-3)
+23   (-2,-2)
+45   (-1,-1)
+57   (0,0)
+45   (1,1)
+23   (2,2)
+7   (3,3)
+1   (4,4)
+Total rank : 209
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 267
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+7   (-3,-2)
+22   (-2,-1)
+41   (-1,0)
+49   (0,1)
+41   (1,2)
+22   (2,3)
+7   (3,4)
+1   (4,5)
+Total rank : 191
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 268
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+17   (-2,-3)
+29   (-1,-2)
+33   (0,-1)
+29   (1,0)
+17   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 139
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 269
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+18   (-2,-3)
+32   (-1,-2)
+37   (0,-1)
+32   (1,0)
+18   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 151
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 270
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+32   (-1,-1)
+45   (0,0)
+32   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 137
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 271
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+17   (-2,-3)
+40   (-1,-2)
+51   (0,-1)
+40   (1,0)
+17   (2,1)
+3   (3,2)
+Total rank : 171
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 272
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+13   (-2,-2)
+35   (-1,-1)
+49   (0,0)
+35   (1,1)
+13   (2,2)
+2   (3,3)
+Total rank : 149
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 273
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-2)
+16   (-2,-1)
+37   (-1,0)
+47   (0,1)
+37   (1,2)
+16   (2,3)
+3   (3,4)
+Total rank : 159
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 274
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+18   (-2,-2)
+35   (-1,-1)
+45   (0,0)
+35   (1,1)
+18   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 165
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 275
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+15   (-2,-4)
+29   (-1,-3)
+35   (0,-2)
+29   (1,-1)
+15   (2,0)
+3   (3,1)
+Total rank : 129
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 276
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+17   (-2,-4)
+37   (-1,-3)
+47   (0,-2)
+37   (1,-1)
+17   (2,0)
+3   (3,1)
+Total rank : 161
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 277
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+17   (-2,-3)
+28   (-1,-2)
+31   (0,-1)
+28   (1,0)
+17   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 135
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 278
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+12   (-2,-2)
+33   (-1,-1)
+47   (0,0)
+33   (1,1)
+12   (2,2)
+2   (3,3)
+Total rank : 141
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 279
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+12   (-2,-3)
+20   (-1,-2)
+21   (0,-1)
+20   (1,0)
+12   (2,1)
+3   (3,2)
+Total rank : 91
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 280
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-2)
+26   (-1,-1)
+41   (0,0)
+26   (1,1)
+6   (2,2)
+Total rank : 105
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 281
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+18   (-2,-3)
+33   (-1,-2)
+39   (0,-1)
+33   (1,0)
+18   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 155
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 282
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+16   (-2,-1)
+26   (-1,0)
+29   (0,1)
+26   (1,2)
+16   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 127
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 283
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-2)
+15   (-2,-1)
+34   (-1,0)
+43   (0,1)
+34   (1,2)
+15   (2,3)
+3   (3,4)
+Total rank : 147
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 284
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+7   (-3,-4)
+21   (-2,-3)
+38   (-1,-2)
+45   (0,-1)
+38   (1,0)
+21   (2,1)
+7   (3,2)
+1   (4,3)
+Total rank : 179
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 285
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-3)
+14   (-2,-2)
+38   (-1,-1)
+53   (0,0)
+38   (1,1)
+14   (2,2)
+2   (3,3)
+Total rank : 161
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 286
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+6   (-3,-4)
+17   (-2,-3)
+31   (-1,-2)
+37   (0,-1)
+31   (1,0)
+17   (2,1)
+6   (3,2)
+1   (4,3)
+Total rank : 147
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 287
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+7   (-3,-3)
+21   (-2,-2)
+38   (-1,-1)
+47   (0,0)
+38   (1,1)
+21   (2,2)
+7   (3,3)
+1   (4,4)
+Total rank : 181
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 288
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+7   (-3,-3)
+23   (-2,-2)
+44   (-1,-1)
+55   (0,0)
+44   (1,1)
+23   (2,2)
+7   (3,3)
+1   (4,4)
+Total rank : 205
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 289
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+17   (-2,-2)
+30   (-1,-1)
+37   (0,0)
+30   (1,1)
+17   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 145
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 290
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-3)
+15   (-2,-2)
+32   (-1,-1)
+41   (0,0)
+32   (1,1)
+15   (2,2)
+3   (3,3)
+Total rank : 141
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 291
+Ranks in Alexander, Maslov bigradings :
+5   (-3,-6)
+14   (-2,-5)
+20   (-1,-4)
+21   (0,-3)
+20   (1,-2)
+14   (2,-1)
+5   (3,0)
+Total rank : 99
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 292
+Ranks in Alexander, Maslov bigradings :
+10   (-2,-4)
+32   (-1,-3)
+45   (0,-2)
+32   (1,-1)
+10   (2,0)
+Total rank : 129
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 293
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+5   (-3,-1)
+12   (-2,0)
+15   (-1,1)
+15   (0,2)
+15   (1,3)
+12   (2,4)
+5   (3,5)
+1   (4,6)
+Total rank : 81
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 294
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+11   (-2,-1)
+29   (-1,0)
+39   (0,1)
+29   (1,2)
+11   (2,3)
+2   (3,4)
+Total rank : 123
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 295
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-1)
+14   (-2,0)
+24   (-1,1)
+27   (0,2)
+24   (1,3)
+14   (2,4)
+3   (3,5)
+Total rank : 109
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 296
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-1)
+28   (-1,0)
+43   (0,1)
+28   (1,2)
+6   (2,3)
+Total rank : 111
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 297
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+15   (-2,-1)
+42   (-1,0)
+57   (0,1)
+42   (1,2)
+15   (2,3)
+2   (3,4)
+Total rank : 175
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 298
+Ranks in Alexander, Maslov bigradings :
+5   (-3,-6)
+16   (-2,-5)
+28   (-1,-4)
+33   (0,-3)
+28   (1,-2)
+16   (2,-1)
+5   (3,0)
+Total rank : 131
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 299
+Ranks in Alexander, Maslov bigradings :
+8   (-2,-4)
+24   (-1,-3)
+33   (0,-2)
+24   (1,-1)
+8   (2,0)
+Total rank : 97
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 300
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+17   (-2,-2)
+32   (-1,-1)
+41   (0,0)
+32   (1,1)
+17   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 153
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 301
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+7   (-3,-2)
+22   (-2,-1)
+43   (-1,0)
+53   (0,1)
+43   (1,2)
+22   (2,3)
+7   (3,4)
+1   (4,5)
+Total rank : 199
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 302
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+7   (-3,-1)
+20   (-2,0)
+33   (-1,1)
+39   (0,2)
+33   (1,3)
+20   (2,4)
+7   (3,5)
+1   (4,6)
+Total rank : 161
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 303
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-3)
+15   (-2,-2)
+34   (-1,-1)
+45   (0,0)
+34   (1,1)
+15   (2,2)
+3   (3,3)
+Total rank : 149
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 304
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+14   (-2,-4)
+26   (-1,-3)
+31   (0,-2)
+26   (1,-1)
+14   (2,0)
+3   (3,1)
+Total rank : 117
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 305
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-3)
+6   (-3,-2)
+16   (-2,-1)
+28   (-1,0)
+33   (0,1)
+28   (1,2)
+16   (2,3)
+6   (3,4)
+1   (4,5)
+Total rank : 135
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 306
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+5   (-3,-1)
+13   (-2,0)
+21   (-1,1)
+25   (0,2)
+21   (1,3)
+13   (2,4)
+5   (3,5)
+1   (4,6)
+Total rank : 105
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 307
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+9   (-2,-1)
+19   (-1,0)
+23   (0,1)
+19   (1,2)
+9   (2,3)
+2   (3,4)
+Total rank : 83
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 308
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-7)
+5   (-3,-6)
+9   (-2,-5)
+13   (-1,-4)
+15   (0,-3)
+13   (1,-2)
+9   (2,-1)
+5   (3,0)
+1   (4,1)
+Total rank : 71
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 309
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-5)
+11   (-2,-4)
+21   (-1,-3)
+25   (0,-2)
+21   (1,-1)
+11   (2,0)
+2   (3,1)
+Total rank : 93
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 310
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-5)
+9   (-2,-4)
+13   (-1,-3)
+13   (0,-2)
+13   (1,-1)
+9   (2,0)
+2   (3,1)
+Total rank : 61
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 311
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-3)
+20   (-1,-2)
+31   (0,-1)
+20   (1,0)
+4   (2,1)
+Total rank : 79
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 312
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-2)
+13   (-2,-1)
+27   (-1,0)
+33   (0,1)
+27   (1,2)
+13   (2,3)
+3   (3,4)
+Total rank : 119
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 313
+Ranks in Alexander, Maslov bigradings :
+5   (-2,-2)
+19   (-1,-1)
+29   (0,0)
+19   (1,1)
+5   (2,2)
+Total rank : 77
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 314
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-5)
+7   (-3,-4)
+21   (-2,-3)
+36   (-1,-2)
+41   (0,-1)
+36   (1,0)
+21   (2,1)
+7   (3,2)
+1   (4,3)
+Total rank : 171
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 315
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+18   (-2,-2)
+33   (-1,-1)
+41   (0,0)
+33   (1,1)
+18   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 157
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 316
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+5   (-3,-3)
+14   (-2,-2)
+25   (-1,-1)
+31   (0,0)
+25   (1,1)
+14   (2,2)
+5   (3,3)
+1   (4,4)
+Total rank : 121
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 317
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-3)
+14   (-2,-2)
+28   (-1,-1)
+35   (0,0)
+28   (1,1)
+14   (2,2)
+3   (3,3)
+Total rank : 125
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 318
+Ranks in Alexander, Maslov bigradings :
+5   (-3,-6)
+16   (-2,-5)
+29   (-1,-4)
+35   (0,-3)
+29   (1,-2)
+16   (2,-1)
+5   (3,0)
+Total rank : 135
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 319
+Ranks in Alexander, Maslov bigradings :
+5   (-3,-6)
+15   (-2,-5)
+25   (-1,-4)
+29   (0,-3)
+25   (1,-2)
+15   (2,-1)
+5   (3,0)
+Total rank : 119
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 320
+Ranks in Alexander, Maslov bigradings :
+9   (-2,-4)
+27   (-1,-3)
+37   (0,-2)
+27   (1,-1)
+9   (2,0)
+Total rank : 109
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 321
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-1)
+15   (-2,0)
+27   (-1,1)
+31   (0,2)
+27   (1,3)
+15   (2,4)
+3   (3,5)
+Total rank : 121
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 322
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+13   (-2,-1)
+36   (-1,0)
+49   (0,1)
+36   (1,2)
+13   (2,3)
+2   (3,4)
+Total rank : 151
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 323
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+9   (-2,-1)
+19   (-1,0)
+23   (0,1)
+19   (1,2)
+9   (2,3)
+2   (3,4)
+Total rank : 83
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 324
+Ranks in Alexander, Maslov bigradings :
+5   (-2,-1)
+25   (-1,0)
+39   (0,1)
+25   (1,2)
+5   (2,3)
+Total rank : 99
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 325
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-1)
+24   (-1,0)
+35   (0,1)
+24   (1,2)
+6   (2,3)
+Total rank : 95
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 326
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+6   (-3,-3)
+19   (-2,-2)
+36   (-1,-1)
+45   (0,0)
+36   (1,1)
+19   (2,2)
+6   (3,3)
+1   (4,4)
+Total rank : 169
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 327
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-4)
+17   (-2,-3)
+44   (-1,-2)
+59   (0,-1)
+44   (1,0)
+17   (2,1)
+3   (3,2)
+Total rank : 187
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 328
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+16   (-2,-4)
+34   (-1,-3)
+43   (0,-2)
+34   (1,-1)
+16   (2,0)
+3   (3,1)
+Total rank : 149
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 329
+Ranks in Alexander, Maslov bigradings :
+11   (-2,-4)
+36   (-1,-3)
+51   (0,-2)
+36   (1,-1)
+11   (2,0)
+Total rank : 145
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 330
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-2)
+5   (-3,-1)
+12   (-2,0)
+17   (-1,1)
+19   (0,2)
+17   (1,3)
+12   (2,4)
+5   (3,5)
+1   (4,6)
+Total rank : 89
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : -2
+Nu : -2
+Epsilon : -1
+Knot # 331
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-2)
+11   (-2,-1)
+27   (-1,0)
+35   (0,1)
+27   (1,2)
+11   (2,3)
+2   (3,4)
+Total rank : 115
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : -1
+Nu : -1
+Epsilon : -1
+Knot # 332
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+7   (-3,-3)
+22   (-2,-2)
+40   (-1,-1)
+49   (0,0)
+40   (1,1)
+22   (2,2)
+7   (3,3)
+1   (4,4)
+Total rank : 189
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 333
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-2)
+16   (-1,-1)
+25   (0,0)
+16   (1,1)
+4   (2,2)
+Total rank : 65
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 334
+Ranks in Alexander, Maslov bigradings :
+2   (-4,-8)
+4   (-3,-7)
+6   (-2,-6)
+8   (-1,-5)
+9   (0,-4)
+8   (1,-3)
+6   (2,-2)
+4   (3,-1)
+2   (4,0)
+Total rank : 49
+Seifert genus : 4
+Fibered : No
+L-space knot : No
+Tau : 4
+Nu : 4
+Epsilon : 1
+Knot # 335
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+10   (-2,-5)
+15   (-1,-4)
+17   (0,-3)
+15   (1,-2)
+10   (2,-1)
+4   (3,0)
+Total rank : 75
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 336
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+9   (-2,-5)
+11   (-1,-4)
+11   (0,-3)
+11   (1,-2)
+9   (2,-1)
+4   (3,0)
+Total rank : 59
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 337
+Ranks in Alexander, Maslov bigradings :
+8   (-2,-4)
+22   (-1,-3)
+29   (0,-2)
+22   (1,-1)
+8   (2,0)
+Total rank : 89
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 338
+Ranks in Alexander, Maslov bigradings :
+2   (-4,-8)
+5   (-3,-7)
+9   (-2,-6)
+12   (-1,-5)
+13   (0,-4)
+12   (1,-3)
+9   (2,-2)
+5   (3,-1)
+2   (4,0)
+Total rank : 69
+Seifert genus : 4
+Fibered : No
+L-space knot : No
+Tau : 4
+Nu : 4
+Epsilon : 1
+Knot # 339
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-6)
+7   (-2,-5)
+11   (-1,-4)
+13   (0,-3)
+11   (1,-2)
+7   (2,-1)
+3   (3,0)
+Total rank : 55
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 340
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+11   (-2,-5)
+18   (-1,-4)
+21   (0,-3)
+18   (1,-2)
+11   (2,-1)
+4   (3,0)
+Total rank : 87
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 341
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-4)
+15   (-1,-3)
+19   (0,-2)
+15   (1,-1)
+6   (2,0)
+Total rank : 61
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 342
+Ranks in Alexander, Maslov bigradings :
+4   (-2,-4)
+7   (-1,-3)
+7   (0,-2)
+7   (1,-1)
+4   (2,0)
+Total rank : 29
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 343
+Ranks in Alexander, Maslov bigradings :
+8   (-1,-2)
+15   (0,-1)
+8   (1,0)
+Total rank : 31
+Seifert genus : 1
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 344
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-5)
+15   (-2,-4)
+29   (-1,-3)
+35   (0,-2)
+29   (1,-1)
+15   (2,0)
+3   (3,1)
+Total rank : 129
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 345
+Ranks in Alexander, Maslov bigradings :
+5   (-2,-3)
+23   (-1,-2)
+35   (0,-1)
+23   (1,0)
+5   (2,1)
+Total rank : 91
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 346
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+5   (-3,-5)
+12   (-2,-4)
+18   (-1,-3)
+21   (0,-2)
+18   (1,-1)
+12   (2,0)
+5   (3,1)
+1   (4,2)
+Total rank : 93
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 347
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+11   (-2,-3)
+26   (-1,-2)
+33   (0,-1)
+26   (1,0)
+11   (2,1)
+2   (3,2)
+Total rank : 111
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 348
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-6)
+7   (-3,-5)
+19   (-2,-4)
+29   (-1,-3)
+33   (0,-2)
+29   (1,-1)
+19   (2,0)
+7   (3,1)
+1   (4,2)
+Total rank : 145
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 349
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+14   (-2,-3)
+37   (-1,-2)
+49   (0,-1)
+37   (1,0)
+14   (2,1)
+2   (3,2)
+Total rank : 155
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 350
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+7   (-3,-3)
+21   (-2,-2)
+39   (-1,-1)
+49   (0,0)
+39   (1,1)
+21   (2,2)
+7   (3,3)
+1   (4,4)
+Total rank : 185
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 351
+Ranks in Alexander, Maslov bigradings :
+1   (-4,-4)
+7   (-3,-3)
+20   (-2,-2)
+34   (-1,-1)
+41   (0,0)
+34   (1,1)
+20   (2,2)
+7   (3,3)
+1   (4,4)
+Total rank : 165
+Seifert genus : 4
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
+Knot # 352
+Ranks in Alexander, Maslov bigradings :
+2   (-3,-4)
+13   (-2,-3)
+32   (-1,-2)
+41   (0,-1)
+32   (1,0)
+13   (2,1)
+2   (3,2)
+Total rank : 135
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 353
+Ranks in Alexander, Maslov bigradings :
+5   (-3,-6)
+15   (-2,-5)
+26   (-1,-4)
+31   (0,-3)
+26   (1,-2)
+15   (2,-1)
+5   (3,0)
+Total rank : 123
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 354
+Ranks in Alexander, Maslov bigradings :
+9   (-2,-4)
+26   (-1,-3)
+35   (0,-2)
+26   (1,-1)
+9   (2,0)
+Total rank : 105
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 355
+Ranks in Alexander, Maslov bigradings :
+2   (-4,-8)
+4   (-3,-7)
+6   (-2,-6)
+7   (-1,-5)
+7   (0,-4)
+7   (1,-3)
+6   (2,-2)
+4   (3,-1)
+2   (4,0)
+Total rank : 45
+Seifert genus : 4
+Fibered : No
+L-space knot : No
+Tau : 4
+Nu : 4
+Epsilon : 1
+Knot # 356
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+10   (-2,-5)
+16   (-1,-4)
+19   (0,-3)
+16   (1,-2)
+10   (2,-1)
+4   (3,0)
+Total rank : 79
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 357
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+11   (-2,-5)
+19   (-1,-4)
+23   (0,-3)
+19   (1,-2)
+11   (2,-1)
+4   (3,0)
+Total rank : 91
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 358
+Ranks in Alexander, Maslov bigradings :
+3   (-3,-6)
+5   (-2,-5)
+5   (-1,-4)
+5   (0,-3)
+5   (1,-2)
+5   (2,-1)
+3   (3,0)
+Total rank : 31
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 359
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-4)
+13   (-1,-3)
+15   (0,-2)
+13   (1,-1)
+6   (2,0)
+Total rank : 53
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 360
+Ranks in Alexander, Maslov bigradings :
+6   (-2,-4)
+14   (-1,-3)
+17   (0,-2)
+14   (1,-1)
+6   (2,0)
+Total rank : 57
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 361
+Ranks in Alexander, Maslov bigradings :
+7   (-2,-4)
+17   (-1,-3)
+21   (0,-2)
+17   (1,-1)
+7   (2,0)
+Total rank : 69
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 362
+Ranks in Alexander, Maslov bigradings :
+10   (-1,-2)
+19   (0,-1)
+10   (1,0)
+Total rank : 39
+Seifert genus : 1
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 363
+Ranks in Alexander, Maslov bigradings :
+9   (-1,-2)
+17   (0,-1)
+9   (1,0)
+Total rank : 35
+Seifert genus : 1
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 364
+Ranks in Alexander, Maslov bigradings :
+2   (-4,-8)
+3   (-3,-7)
+3   (-2,-6)
+3   (-1,-5)
+3   (0,-4)
+3   (1,-3)
+3   (2,-2)
+3   (3,-1)
+2   (4,0)
+Total rank : 25
+Seifert genus : 4
+Fibered : No
+L-space knot : No
+Tau : 4
+Nu : 4
+Epsilon : 1
+Knot # 365
+Ranks in Alexander, Maslov bigradings :
+4   (-3,-6)
+8   (-2,-5)
+9   (-1,-4)
+9   (0,-3)
+9   (1,-2)
+8   (2,-1)
+4   (3,0)
+Total rank : 51
+Seifert genus : 3
+Fibered : No
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 366
+Ranks in Alexander, Maslov bigradings :
+8   (-2,-4)
+20   (-1,-3)
+25   (0,-2)
+20   (1,-1)
+8   (2,0)
+Total rank : 81
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 367
+Ranks in Alexander, Maslov bigradings :
+1   (-5,-10)
+1   (-4,-9)
+1   (-3,-8)
+1   (-2,-7)
+1   (-1,-6)
+1   (0,-5)
+1   (1,-4)
+1   (2,-3)
+1   (3,-2)
+1   (4,-1)
+1   (5,0)
+Total rank : 11
+Seifert genus : 5
+Fibered : Yes
+L-space knot : No
+Tau : 5
+Nu : 5
+Epsilon : 1

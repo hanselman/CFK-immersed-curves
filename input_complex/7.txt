@@ -1,0 +1,100 @@
+Computations from file :  7PD.txt
+with Coefficient = 2
+
+
+Knot # 1
+Ranks in Alexander, Maslov bigradings :
+1   (-3,-6)
+1   (-2,-5)
+1   (-1,-4)
+1   (0,-3)
+1   (1,-2)
+1   (2,-1)
+1   (3,0)
+Total rank : 7
+Seifert genus : 3
+Fibered : Yes
+L-space knot : No
+Tau : 3
+Nu : 3
+Epsilon : 1
+Knot # 2
+Ranks in Alexander, Maslov bigradings :
+3   (-1,-2)
+5   (0,-1)
+3   (1,0)
+Total rank : 11
+Seifert genus : 1
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 3
+Ranks in Alexander, Maslov bigradings :
+2   (-2,-4)
+3   (-1,-3)
+3   (0,-2)
+3   (1,-1)
+2   (2,0)
+Total rank : 13
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 4
+Ranks in Alexander, Maslov bigradings :
+4   (-1,-2)
+7   (0,-1)
+4   (1,0)
+Total rank : 15
+Seifert genus : 1
+Fibered : No
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 5
+Ranks in Alexander, Maslov bigradings :
+2   (-2,-4)
+4   (-1,-3)
+5   (0,-2)
+4   (1,-1)
+2   (2,0)
+Total rank : 17
+Seifert genus : 2
+Fibered : No
+L-space knot : No
+Tau : 2
+Nu : 2
+Epsilon : 1
+Knot # 6
+Ranks in Alexander, Maslov bigradings :
+1   (-2,-3)
+5   (-1,-2)
+7   (0,-1)
+5   (1,0)
+1   (2,1)
+Total rank : 19
+Seifert genus : 2
+Fibered : Yes
+L-space knot : No
+Tau : 1
+Nu : 1
+Epsilon : 1
+Knot # 7
+Ranks in Alexander, Maslov bigradings :
+1   (-2,-2)
+5   (-1,-1)
+9   (0,0)
+5   (1,1)
+1   (2,2)
+Total rank : 21
+Seifert genus : 2
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0

@@ -1,0 +1,16 @@
+Computations from file :  4PD.txt
+with Coefficient = 2
+
+
+Knot # 1
+Ranks in Alexander, Maslov bigradings :
+1   (-1,-1)
+3   (0,0)
+1   (1,1)
+Total rank : 5
+Seifert genus : 1
+Fibered : Yes
+L-space knot : No
+Tau : 0
+Nu : 0
+Epsilon : 0
