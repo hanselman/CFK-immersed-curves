@@ -1,0 +1,102 @@
+OVERVIEW:
+
+This collection of code is intended to convert a bifiltered chain complex (over Z/2Z), such as those arising in knot Floer homology into a collection of decorated immersed curves. We do this by implementing an algorithm of Hanselman-Rasmussen-Watson in the special case of knot complements. We first represent the bifiltered complex as a "curve like train track", i.e. a set of immersed curves along with crossover arrows connecting them. By the arrow sliding algorithm in HRW, this can be simplified to a collection of immersed curves, possibly decorated with local systems.
+
+
+Some of this code was used to check the cosmetic surgery conjecture for all knots up to 16 crossings. For a given set of knots, the steps to check the cosemtic surgery conjecture are:
+
+1) Compile a list of PD codes of the given knots
+2) Run a modified version of a program of Szabo to compute knot Floer homology (see computing_CFK below)
+3) Run the program check-cosmetic-surgery-conjecture.py with the appropriate input file. This throws out most examples by checking simple obstructions like tau, genus, and HFK ranks, and for any remaining knots it computes the immersed curve representing CFK and checks the further constraints described in my paper. The program outputs a text file with the names of all knots which pass every obstruction.
+4) 
+
+With the exception of Main.cpp in the folder computing_CFK (which is a modification of another program), all scripts posted here are written for Python v2.7
+
+
+******
+computing_CFK (folder)
+******
+
+This folder contains a couple tools for the preliminary step of computing CFK for knots, which we do using Zoltan Szabo's program available here:
+
+https://web.math.princeton.edu/~szabo/HFKcalc.html
+
+Given a list of PD codes this program outputs a txt file containing the ranks (in each bigrading) of HFK-hat for the corresponding list of knots, as well as other useful information such as the genus, tau, and epsilon. Unfortunately, as written it does not output quite enough information to recover the full UV=0 chain complex (though that is what the program computes). To display this, I modified the file main.cpp to print the differential information as well (except for alternating knots, which are treated differently, but then the whole complex is determined by the ranks). To reproduce my computations, download Szabo's program and follow his instructions for compiling and running, but replace the file main.cpp with the file in this repository. WARNING: This was the simplest way to output the information needed but not the most efficient, and it produces quite large .txt files.
+
+Another important step in performing these computations is compiling the lists of PD codes for knots of a given crossing number (according to the Hoste-Thistlethwaite knot tables). These can be extracted from KnotInfo (https://www.indiana.edu/~knotinfo/) up to 12 crossings. For knots from 12 to 16 crossings, DT codes can be obtained from http://katlas.org/svn/KnotTheory/tags/20060831/KnotTheory/. DTtoPD.py is a script to convert these DT codes into PD codes. As an example, running this script on 12nDT.txt produces 12nPD.txt
+
+
+******
+BifliteredComplex.py
+******
+
+Defines a class BifilteredComplex, which is intended to encode a bifiltered complex such as that arising from knot Floer homology. The defining information is an Alexander grading for each generator, a Maslov grading for each generator, and a differential.
+
+Contains functions CFK_from_file (for a single knot) and CFKs_from_file (for multiple knots), which input a text file of the format output by the modified version of Szabo's program (see "computing_CFK" above) and returns a corresponding instance of BifilteredComplex. The class contains a function train_track which converts the complex into an instance of KnotTrainTrack.
+
+
+******
+KnotTrainTrack.py
+******
+
+Defines a class which encodes a curve-like train track of the type arising from knot Floer complexes, namely a collection of immersed curves in the infinite vertical strip with punctures at each integer height, with exactly one strand escaping to the left edge of the strip and one strand escaping to the right edge. This is encoded as a list of horizontal segments which each have an Alexander grading and a Maslov grading. We think of these horizontal segments as giving the only intersections with the vertical axis, and the Alexander grading determines the height of each segment. In addition to the segment gradings, we encode a matching on each side that matches up all but one segment in pairs. We interpret these as curved arcs connecting the segments on that side. The result is an immersed curve, possibly with some closed components and with exactly one arc component that moves from the left edge of the strip to the right edge. Finally, we record a list of crossover arrows which connect one horizontal segment to another. The horizontal positioning of these arrows is (sometimes) significant, so they are given as a list read from left to right.
+
+Class contains a function "simplify" which implements the arrow sliding algorithm and removes all crossover arrows if possible. The function "condensed_curve", after simplifying, expresses the resulting immersed multicurve as a string in a condensed form. The function make_svg is intended to produce an svg file with a graphical representation of the train track (this was used primarily for debugging on small examples, and may not work well in general).
+
+Note: Support for non-trivial local systems is not yet implemented, but I have yet to come across an example that requires them (if you do, please let me know!). An error message will display if the algorithm finds that the result should have a non-trivial local system.
+
+
+
+*******
+compute-immersed-curves.py
+*******
+
+This takes as input the text file output from Szabo's program for a given collection of knots and computes the immersed curve for each knot. The output is a text file with one line for each knot. The output file has the same name as the input file, but the former is in the directory immersed_curves and the latter is in the directory input_complex.
+
+
+*******
+input_complex (folder)
+*******
+
+The input complexes are included up to 12 crossings, but for larger knots the files were too large to post. For 13n knots, the relevant file is 35 MB, and for 16n it would be nearly 40 GB.
+
+******
+immersed_curve
+******
+
+Each file contains a list of immersed multicurves, with each line representing the multicurve for a given knot in a condensed format. For example, the 6th line of the file 12n.txt represents the immersed multicurve corresponding to the knot 12n_6. This line is 
+
+[2, 1, 0, -1, -2], (3,2), (2,2)^3, (1,2), (-1,2), (-2,2)^3, (-3,2)
+
+This can be interpreted as a collection of immersed curves as follows:
+
+The first part of the line is always list of integers, in this case [2,1,0,-1,-2]. This corresponds to the unique component of the curve which is an arc going from the left side of the strip to the right side (or if we view the strip as a cylinder, the unique closed curve which wraps around the back of the cylinder). This is the distinguished component gamma_0. The list of integers records the height of each crossing with the vertical axis (in order, starting from the left edge of of the strip). Note that the first integer in the list is the Ozsvath-Szabo tau invariant. Moreover, if the list for gamma_0 has length greater than one, then Hom's epsilon invariant is positive (resp. negative) if the second entry is less than (resp. greater than) the first entry, and epsilon is zero if the list has length one. Each intersection with the vertical axis corresponds to a generator of CFK, and the height corresponds to the Alexander grading. For the gamma_0 component, the Maslov grading is also determined by the convention that the first generator in the list has maslov grading 0 (this corresponds to the generator of HF-hat(S^3)).
+
+All other components of the curve are closed components. These can also be represented by a list of integers representing heights of crossings with the vertical line through the punctures, starting at some arbitrary point on the curve, with the convention that at the first crossing we move left to right. This list of integers is not unique: permuting the list cyclically an even number of steps defines the same curve, and reading the list backwards defines the same curve traversed in the opposite directions. The heights encode Alexander grading information, but more is needed to encode the Maslov grading. I find it convenient to record the delta grading (Alexander - Maslov). It is enough to record the grading of any one generator on a curve, since all the other gradings on that connected component are determined by one. Thus in general a closed component would be encoded by a tuple (list, integer), where the list encodes a curve and the integer is the delta grading of the generator corresponding to the *first* entry on the list (note that cyclically permuting a list may require changing this grading entry).
+
+For example, ([4,3,2,3], 2) would represent a figure eight centered at height 3, such that the generator corresponding to the maximum of the curve has delta grading 2 (in fact, for a figure eight component all generators have the same delta grading). Because figure eight components are so common, we introduce the shorthand (a,d) for a figure eight component, where a is the hight of the middle of the figure 8 and d is the delta grading. Thus (3,2) is shorthand for ([4,3,2,3], 2). Figure eights are very common: there is only one example of a closed curve component which is not a figure 8 for knots up through 15 crossings.
+
+Finally, when the same component occurs multiply times, this is denoted by ^.
+
+Thus for 12n_6 the invartiant is a single non-closed arc which first hits the vertical axis at height 2 and zig-zags downward til height -2, along with ten figure-8 curves, all with delta grading 2, centered at heights 3, 2, 2, 2, 1, -1, -2, -2, -2, and -3.
+
+
+******
+check-cosmetic-surgery-conjecture.py
+******
+
+Checks among a set of knots for any examples for which knot Floer homology does not prohibit all truly cosmetic surgeries. The input is a text file coming from Szabo's program. Outputs a text file in directory possible_cosmetic_surgeries which contains the immersed curve for these examples, and also displays some useful counters, like the number of examples that survived some weaker obstructions (like tau = 0), and the maximum Heegaard Floer thickness of all examples checked. For convenience, a short version of the output file is also produced which only contains the names of the relevant knots (so that these can be easily copied and pasted into one large list of examples that need further attention).
+
+*****
+possible_cosmetic_surgeries (folder)
+*****
+
+Contains the output for the check-cosmetic-surgery-conjecture script above. I've posted these outputs (long version only) for all knots up through 16 crossings. Due to the size of the input files, the set of 15n knots was broken into sets of 10000 knots, labelled 15n-0 up to 15n-16, so for example the 217th knot in the input file 15n-3 represented the knot 15n30217. The 16n knots were similarly broken into batches of 100000 knots.
+
+
+*****
+check-hyperbolic-invariants
+*****
+
+This is a script for checking hyperbolic invariants with SnapPy; the easiest way to use it is to copy it and paste into a Sage worksheet. The list to_check is the list of the 337 knots up to 16 crossings which are not ruled out by previous obstructions. For these knots we need to compute the hyperbolic volume for +1/-1 surgery and for +2/-2 surgery. If the volumes agree for one of these pairs, the program tells you and then checks the Chern-Simons invariants. This happens for 4 of the 337 knots and the Chern-Simons invariant distinguishes the pairs in each case.
+
