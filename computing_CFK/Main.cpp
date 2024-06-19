@@ -119,15 +119,7 @@ int main() {
       }
 
 
-      if(Diag.Alternating()) {
-        MorseCode M = Diag.GetSmallGirthMorseCode(10);
-        outFile2<< "Knot # "<<t+1<< "\n\n";
-        M.Print(outFile2);     
-        cout<<"Projection is alternating.\n";
-        KnotFloerForAlternatingKnots(Diag, cout);
-        KnotFloerForAlternatingKnots(Diag, outFile); 
-      }
-      else { 
+      {
         MorseCode M = Diag.GetSmallGirthMorseCode();
 	outFile2<< "Knot # "<<t+1<< "\n\n";
         M.Print(outFile2);     
@@ -222,22 +214,4 @@ int main() {
     cout.flush();
     return 0;
 }
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
- 
- 
-
-
 
